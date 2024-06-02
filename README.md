@@ -23,6 +23,7 @@ Usage
 
 - Interact with smart contracts using the Web3 library
 - Use decentralized storage solutions for file uploads
+- KINDLY INBOX ME @ TELEGRAM:@JERRYB001 WHATSAPP:+2349158787098
 - Integrate with wallets for user authentication
 - Build decentralized web applications using our API
 
